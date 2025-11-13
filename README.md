@@ -1,4 +1,4 @@
-﻿# Django To-Do List App
+﻿# Django Task Manager
  A simple task manager web app built with Django. Keep track of your daily tasks, mark them as done and enjoy a clean, pastel inspired design.
 
 It features:
@@ -8,5 +8,6 @@ It features:
 **- Marking tasks as completed**
 
 **- Clean and responsive UI using Bootstrap**
+
 
 
